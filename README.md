@@ -36,10 +36,14 @@ Here are some ideas to get you started: -->
   </tbody>
 </table>
 
+<h2 align="left">🛠 Languages and Tools:</h2>
+
+<p align="left" width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cedric921&show_icons=true&locale=en&layout=compact" alt="cedric921" /></p>
+
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -51,17 +55,12 @@ Here are some ideas to get you started: -->
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<h2 align="left">🛠 Languages and Tools:</h2>
 
-<p align="left" width="40%" display="inline"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cedric921&show_icons=true&locale=en&layout=compact" alt="cedric921" /></p>
+<h2 align="left">🛠 Stars:</h2>
+<p align="left" width="40%" ><img src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&count_private=true" alt="cedric921" /></p>
 
-<p align="right" width="40%" display="inline"><img src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&count_private=true" alt="cedric921" /></p>
-
-<br/>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921" alt="cedric921" /></p>
+<p align="left" width="40%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921" alt="cedric921" /></p>
 
