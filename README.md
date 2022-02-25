@@ -57,11 +57,9 @@ Here are some ideas to get you started: -->
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cedric921&show_icons=true&locale=en&layout=compact" alt="cedric921" /></p>
+<p align="left" display="inline"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cedric921&show_icons=true&locale=en&layout=compact" alt="cedric921" /></p>
 
-<br/>
-
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&count_private=true" alt="cedric921" /></p>
+<p align="right" display="inline"><img src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&count_private=true" alt="cedric921" /></p>
 
 <br/>
 
