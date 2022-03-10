@@ -60,7 +60,7 @@ Here are some ideas to get you started: -->
 
 <h2 align="center">🛠 Stars:</h2>
 <p align="left" width="100%" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&count_private=true" alt="cedric921" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921" alt="cedric921" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&count_private=true" alt="cedric921" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921" alt="cedric921" />
 </p>
 
