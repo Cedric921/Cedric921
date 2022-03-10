@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 
 <h2>Open source projects</h2>
-<table>
+<table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <td><a href="https://github.com/Cedric921/food-delivrery"><b>blog</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/blog?style=flat-square&labelColor=343b41"/></td>
@@ -36,12 +36,12 @@ Here are some ideas to get you started: -->
   </tbody>
 </table>
 
-<h2 align="left">🛠 Languages and Tools:</h2>
+<h2 align="center">🛠 Languages and Tools:</h2>
 
 <p align="center" width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cedric921&show_icons=true&locale=en&layout=compact" alt="cedric921" /></p>
 
 
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -58,8 +58,9 @@ Here are some ideas to get you started: -->
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 
-<h2 align="left">🛠 Stars:</h2>
-<p align="left" width="40%" ><img src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&count_private=true" alt="cedric921" /></p>
-
-<p align="left" width="40%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921" alt="cedric921" /></p>
+<h2 align="center">🛠 Stars:</h2>
+<p align="left" width="100%" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&count_private=true" alt="cedric921" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921" alt="cedric921" />
+</p>
 
