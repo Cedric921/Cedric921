@@ -28,10 +28,10 @@ Here are some ideas to get you started: -->
   <tbody align="center">
     <tr>
       <td><a href="https://github.com/Cedric921/food-delivrery"><b>blog</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/uStock?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/uStock?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/uStock?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/uStock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/blog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/Task_tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/Task_tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/blog?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
