@@ -29,16 +29,23 @@ Here are some ideas to get you started: -->
     <tr>
       <td><a href="https://github.com/Cedric921/food-delivrery"><b>blog</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/blog?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/Task_tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/Task_tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/blog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cedric921/food-delivrery"><b>gda_admin_dashboard</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/blog?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/Task_tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/gda_admin_dashboard?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
 <h2 align="center">🛠 Languages and Tools:</h2>
 
-<p align="center" width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cedric921&show_icons=true&locale=en" alt="cedric921" /></p>
+<p align="center" width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cedric921&show_icons=true&locale=fr" alt="cedric921" /></p>
 
 
 <p align="center">
