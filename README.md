@@ -1,9 +1,5 @@
 ### Hi there 👋. Cedric KARUNGU
 
-<!--
-**Merdi-kim/Merdi-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
 
 - 🔭 I’m currently learning MERN stack
 - 🌱 I’m currently experimenting the web ecosystem
@@ -45,7 +41,7 @@ Here are some ideas to get you started: -->
 
 <h2 align="center">🛠 Languages and Tools:</h2>
 
-<p align="center" width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cedric921&show_icons=true&locale=fr" alt="cedric921" /></p>
+<p align="center" width="100"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cedric921&show_icons=true&locale=en" alt="cedric921" /></p>
 
 
 <p align="center">
