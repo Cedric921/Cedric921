@@ -94,9 +94,3 @@
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 
-<h2 align="center">🛠 Stars:</h2>
-<p align="left" width="100%" >
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&count_private=true" alt="cedric921" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921" alt="cedric921" />
-</p> 
-
