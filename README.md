@@ -45,7 +45,7 @@
 <p>
   <img
     align="left"
-    width="51%"
+    width="45%"
     alt="My Stats"
     src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&theme=radical"
   />
