@@ -255,7 +255,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{rolandm99}/count.svg" alt="roland :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{cedric921}/count.svg" alt="roland :: Visitor's Count" /></p>
 
 [![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=cedric921&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/cedric921/github-readme-activity-graph)
 <br/>
