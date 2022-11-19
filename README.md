@@ -1,7 +1,8 @@
 ### Hi there 👋. Cedric KARUNGU
 
 
-- 🔭 I’m currently learning MERN stack
+- 🔭 I’m currently learning Nest.js and Next.js 
+- - 🔭 I’m currently use MERN stack
 - 🌱 I’m currently experimenting the web ecosystem
 - 👯 I’m looking to collaborate on solving problems with software
 - 💬 Ask me about anything web-related, I might have a hint 
@@ -58,13 +59,13 @@
 
 <p>
   <img
-    width="50%"
+    width="45%"
     height="200"
     alt="GitHub Streak Stats"
     src="https://github-profile-trophy.vercel.app/?username=Cedric921&theme=radical&no-frame=true&column=3&row=2"
   />
   <img
-    width="47%"
+    width="45%"
     height="200"
     alt="GitHub Streak Stats"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
