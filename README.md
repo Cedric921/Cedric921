@@ -1,4 +1,4 @@
-### Hi there 👋. Cedric KARUNGU
+### Hi there 👋. Cédric KARUNGU
 
 
 - 🔭 I’m currently learning Nest.js and Next.js;
