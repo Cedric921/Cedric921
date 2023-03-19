@@ -8,7 +8,7 @@
 - 💬 Ask me about anything web-related, I might have a hint; 
 - 📫 How to reach me: ckarungu921@gmail.com
 
-- ⚡ "*build your futur in technology*"
+ ⚡ "*build your futur in technology*"
 
 
 <h2>Open source projects</h2>
