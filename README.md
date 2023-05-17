@@ -7,7 +7,7 @@
 - 🔭 I’m currently use MERN stack;
 - 🌱 I’m currently experimenting the web and mobile ecosystem
 - 👯 I’m looking to collaborate on solving problems with software and open source projects;
-- 💬 Ask me about anything web-related, I might have a hint; 
+- 💬 Ask me about anything web, I might have a hint; 
 - 📫 How to reach me: ckarungu921@gmail.com
 
  ⚡ "*build your futur in technology*"
