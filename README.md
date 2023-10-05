@@ -12,7 +12,7 @@
 
  ⚡ "*build your futur in technology*"
 
-
+ 
 <h2>Open source projects</h2>
 <table align="center">
   <thead align="center">
