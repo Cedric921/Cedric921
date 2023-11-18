@@ -232,6 +232,40 @@
   </tr>
 
   </tr>
+
+  <tr>
+      <td align="center" width="96">
+      <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
+        </a> 
+      <br>cypress
+    </td>
+     <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+      <br>docker
+    </td>
+      <td align="center" width="96">
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+ </a>
+      <br>firebase
+    </td>
+      <td align="center"  width="96">
+      <a href="https://graphql.org" target="_blank" rel="noreferrer">
+       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+      </a> 
+      <br>Graph QL
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+      <br>Postgress
+    </td>
+  </tr>
+
+  </tr>
+
+  
 </table>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
