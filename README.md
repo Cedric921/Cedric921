@@ -3,8 +3,8 @@
 <h5 align="center"><em>A passionate fulstack developer </em></h5>
 
 
-- 🔭 I’m currently learning Nest.js and Next.js;
-- 🔭 I’m currently use MERN stack;
+- 🔭 I’m currently learning Angular ;
+- 🔭 I’m currently use Nest.js and Next.js;
 - 🌱 I’m currently experimenting the web and mobile ecosystem
 - 👯 I’m looking to collaborate on solving problems with software and open source projects;
 - 💬 Ask me about anything web, I might have a hint; 
@@ -12,7 +12,17 @@
 
  ⚡ "*build your futur in technology*"
 
- 
+
+ <h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JS | TS | Rust | Solidity | Ruby 
+- 🌐 &nbsp; HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design | MUI  
+- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | sqlite
+- 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile  
+
+<h3> Let's connect </h3>
+
+
 <h2>Open source projects</h2>
 <table align="center">
   <thead align="center">
@@ -223,6 +233,40 @@
   </tr>
 
   </tr>
+
+  <tr>
+      <td align="center" width="96">
+      <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
+        </a> 
+      <br>cypress
+    </td>
+     <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+      <br>docker
+    </td>
+      <td align="center" width="96">
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+ </a>
+      <br>firebase
+    </td>
+      <td align="center"  width="96">
+      <a href="https://graphql.org" target="_blank" rel="noreferrer">
+       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+      </a> 
+      <br>Graph QL
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+      <br>Postgress
+    </td>
+  </tr>
+
+  </tr>
+
+  
 </table>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
