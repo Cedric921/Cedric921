@@ -3,14 +3,23 @@
 <h5 align="center"><em>A passionate fulstack developer </em></h5>
 
 
-- 🔭 I’m currently learning Nest.js and Next.js;
-- 🔭 I’m currently use MERN stack;
+- 🔭 I’m currently learning Angular ;
+- 🔭 I’m currently use Nest.js and Next.js;
 - 🌱 I’m currently experimenting the web and mobile ecosystem
 - 👯 I’m looking to collaborate on solving problems with software and open source projects;
 - 💬 Ask me about anything web, I might have a hint; 
 - 📫 How to reach me: ckarungu921@gmail.com
 
  ⚡ "*build your futur in technology*"
+
+ <h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JS | TS | Rust | Solidity | Ruby 
+- 🌐 &nbsp; HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design | MUI  
+- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | sqlite
+- 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile  
+
+<h3> Let's connect </h3>
 
 
 <h2>Open source projects</h2>
