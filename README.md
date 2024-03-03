@@ -1,28 +1,33 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Cedric+Karungu" alt="Cedric921" /></h1>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3594F4&size=32&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Cedric+Karungu" alt="Cedric921" /></h2>
 
-<h5 align="center"><em>A passionate fulstack developer </em></h5>
+> I am a Software engineer with experience solving enterprise-level challenges using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. I Enjoy books and chess.
 
+<p align="center">
+ 🔭 I’m currently learning React Native ; <br />
+ 🔭 I’m currently use Nest.js and Next.js; <br />
+ 🌱 I’m currently experimenting the web and mobile ecosystem <br />
+ 👯 I’m looking to collaborate on solving problems with software and open source projects; <br />
+ 💬 Ask me about anything web, I might have a hint; <br />
+</p>
 
-- 🔭 I’m currently learning React Native ;
-- 🔭 I’m currently use Nest.js and Next.js;
-- 🌱 I’m currently experimenting the web and mobile ecosystem
-- 👯 I’m looking to collaborate on solving problems with software and open source projects;
-- 💬 Ask me about anything web, I might have a hint; 
-- 📫 How to reach me: ckarungu921@gmail.com
+<br/>
 
- ⚡ "*build your futur in technology*"
+<p align="center">
+  JS | TS <br />
+  React Native <br />
+  Git | GitHub | GitFlow | Jira | Agile  <br />
+  MySQL | MongoDB | PostgeSQL | sqlite <br />
+  HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design | MUI  <br />
+</p>
 
+<h5 align="center"> Let's connect </h5>
 
- <h5>🛠 Tech Stack</h5>
+<p align="center">
+<a href="https://linkedin.com/in/cedric-karungu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-cedrickarungu-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ckarungu921@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ckarungu921@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+</p>
 
-- 💻 &nbsp; JS | TS
-- 📱 React Native
-- 🌐 &nbsp; HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design | MUI  
-- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | sqlite
-- 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile  
-
-<h5> Let's connect </h5>
-
+<hr />
 
 <h5 align="center">Open source projects</h5>
 <table align="center">
@@ -54,12 +59,8 @@
   
 </table>
 
-
+<hr />
 <h5 align="center">My Github Stats </h5>
-
-<hr/>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cedric921)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <!--   <picture> -->
@@ -67,16 +68,12 @@
 <!--   </picture> -->
 </div>
 
-<h5 align="center"><i>Some Stats</i></h5>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Cedric921"></img></p>
-
 <div align="center">
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921&theme=gotham&hide_border=true" />
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
 </div>
 
-
+<hr />
 <h5 align="center">🛠 Languages and Tools:</h5>
 
 <table align="center">
