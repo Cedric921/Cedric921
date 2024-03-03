@@ -24,7 +24,7 @@
 <h5> Let's connect </h5>
 
 
-<h5>Open source projects</h5>
+<h5 align="center">Open source projects</h5>
 <table align="center">
   <thead align="center">
     <tr border: none;>
@@ -55,9 +55,11 @@
 </table>
 
 
-## My Github Stats
+<h5 align="center">My Github Stats </h5>
 
 <hr/>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cedric921)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <!--   <picture> -->
