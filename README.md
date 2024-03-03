@@ -1,9 +1,9 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Cedric+Karungu" alt="Cedric921" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Cedric+Karungu" alt="Cedric921" /></h1>
 
 <h5 align="center"><em>A passionate fulstack developer </em></h5>
 
 
-- 🔭 I’m currently learning Angular ;
+- 🔭 I’m currently learning React Native ;
 - 🔭 I’m currently use Nest.js and Next.js;
 - 🌱 I’m currently experimenting the web and mobile ecosystem
 - 👯 I’m looking to collaborate on solving problems with software and open source projects;
@@ -15,7 +15,8 @@
 
  <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JS | TS | Rust | Solidity | Ruby 
+- 💻 &nbsp; JS | TS
+- 📱 React Native
 - 🌐 &nbsp; HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design | MUI  
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | sqlite
 - 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile  
@@ -56,37 +57,29 @@
 
 ## My Github Stats
 
-<p>
-  <img
-    align="left"
-    width="45%"
-    alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Cedric921&show_icons=true&theme=radical"
-  />
-  <img
-    width="45%"
-    alt="Top langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric921&show_icons=true&theme=radical&layout=compact"
-  />
-</p>
-
-<p>
-  <img
-    width="45%"
-    height="200"
-    alt="GitHub Streak Stats"
-    src="https://github-profile-trophy.vercel.app/?username=Cedric921&theme=radical&no-frame=true&column=3&row=2"
-  />
-  <img
-    width="45%"
-    height="200"
-    alt="GitHub Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
-  />
-</p>
 
 
-<h2 align="center">🛠 Languages and Tools:</h2>
+<hr/>
+
+<div align="center">
+<!--   <picture> -->
+    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/Cedric921/Cedric921/output/github-contribution-grid-snake-dark.svg" />
+<!--   </picture> -->
+</div>
+
+<h4 align="center"><i>Some Stats</i></h4>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Cedric921"></img></p>
+
+<div align="center">
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921&theme=gotham&hide_border=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
+</div>
+
+<h4 align="center"><i>As well as..</i></h4>
+
+
+<h3 align="center">🛠 Languages and Tools:</h3>
 
 <table align="center">
   <tr>
