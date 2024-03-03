@@ -13,7 +13,7 @@
  ⚡ "*build your futur in technology*"
 
 
- <h3>🛠 Tech Stack</h3>
+ <h5>🛠 Tech Stack</h5>
 
 - 💻 &nbsp; JS | TS
 - 📱 React Native
@@ -21,10 +21,10 @@
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL | sqlite
 - 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile  
 
-<h3> Let's connect </h3>
+<h5> Let's connect </h5>
 
 
-<h2>Open source projects</h2>
+<h5>Open source projects</h5>
 <table align="center">
   <thead align="center">
     <tr border: none;>
@@ -57,8 +57,6 @@
 
 ## My Github Stats
 
-
-
 <hr/>
 
 <div align="center">
@@ -67,7 +65,7 @@
 <!--   </picture> -->
 </div>
 
-<h4 align="center"><i>Some Stats</i></h4>
+<h5 align="center"><i>Some Stats</i></h5>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Cedric921"></img></p>
 
@@ -76,10 +74,8 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
 </div>
 
-<h4 align="center"><i>As well as..</i></h4>
 
-
-<h3 align="center">🛠 Languages and Tools:</h3>
+<h5 align="center">🛠 Languages and Tools:</h5>
 
 <table align="center">
   <tr>
@@ -266,7 +262,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h5 align="center">Visitor's count :eyes:</h5>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cedric921}/count.svg" alt="roland :: Visitor's Count" /></p>
 
