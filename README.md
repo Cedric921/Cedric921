@@ -62,6 +62,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ever-co/ever-gauzy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ever-co/ever-gauzy?style=flat-square&labelColor=343b41"/></td>
     </tr>
+   <tr>
+      <td><a href="https://github.com/Cedric921/student-projects-frontend"><b>GDA_Almuni</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Cedric921/student-projects-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Cedric921/student-projects-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/student-projects-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/student-projects-frontend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
   
 </table>
