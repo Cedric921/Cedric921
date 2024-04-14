@@ -17,7 +17,7 @@
   React Native <br />
   Git | GitHub | GitFlow | Jira | Agile  <br />
   MySQL | MongoDB | PostgeSQL | sqlite <br />
-  HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design | MUI  <br />
+  HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design <br />
 </p>
 
 <h5 align="center"> Let's connect </h5>
