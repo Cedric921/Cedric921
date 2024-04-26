@@ -214,9 +214,11 @@
 <h5 align="center">Visitor's count :eyes:</h5>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cedric921}/count.svg" alt="Cedric karungu :: Visitor's Count" /></p>
-
+<p align="center">
 [![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=cedric921&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/cedric921/github-readme-activity-graph)
+</p>
 <br/>
-
+<p align="center">
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/USERNAME.svg)](https://user-badge.committers.top/congo_kinshasa_private/cedric921)
+</p>
 <br/>
