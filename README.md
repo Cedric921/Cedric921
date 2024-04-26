@@ -217,4 +217,6 @@
 
 [![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=cedric921&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/cedric921/github-readme-activity-graph)
 <br/>
+
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/USERNAME.svg)](https://user-badge.committers.top/congo_kinshasa_private/cedric921)
 <br/>
