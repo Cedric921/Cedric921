@@ -69,6 +69,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Cedric921/student-projects-frontend?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cedric921/student-projects-frontend?style=flat-square&labelColor=343b41"/></td>
     </tr>
+   <tr>
+      <td><a href="https://github.com/kaliacad/mostvisitedarticle"><b>Most Visited Articles on Wikipedia</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kaliacad/mostvisitedarticle?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kaliacad/mostvisitedarticle?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kaliacad/mostvisitedarticle?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kaliacad/mostvisitedarticle?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
   
 </table>
