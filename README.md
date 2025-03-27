@@ -220,9 +220,9 @@
 
 
 <p>
- <a href="https://gitroll.io/profile/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2?theme=light" alt="GitRoll Profile Badge"/>
- </a>
+  <a href="https://gitroll.io/profile/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2" target="_blank">
+   <img src="https://gitroll.io/api/badges/profiles/v1/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2?theme=nord" alt="GitRoll Profile Badge"/>
+  </a>
 </p>
 
 <h5 align="center">Visitor's count :eyes:</h5>
