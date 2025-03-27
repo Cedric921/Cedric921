@@ -218,6 +218,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
+
+<p>
+ <a href="https://gitroll.io/profile/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2?theme=light" alt="GitRoll Profile Badge"/>
+ </a>
+</p>
+
 <h5 align="center">Visitor's count :eyes:</h5>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cedric921}/count.svg" alt="Cedric karungu :: Visitor's Count" /></p>
