@@ -12,14 +12,16 @@
   <code><samp>-> 💳 Trading & Fintech development (financial independence + fintech skills). <-</samp></code><br />
 </p>
 
-<!-- <p align="center">
+##
+
+<p align="center">
   <samp>I love: <samp><br />  
   <samp>👨‍👩‍👦‍👦 my family !</samp><br />
   <samp>👨‍💻 coding </samp><br />
   <samp> 🎧 music </samp><br />
   <samp> 🗺 traveling </samp><br />
   <samp>... and basically learning anything. </samp><br />
-</p> -->
+</p>
 
 ## 
 
