@@ -81,20 +81,6 @@
 </table>
 
 <hr />
-<h5 align="center">My Github Stats </h5>
-
-<div align="center">
-<!--   <picture> -->
-    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/Cedric921/Cedric921/output/github-contribution-grid-snake-dark.svg" />
-<!--   </picture> -->
-</div>
-
-<div align="center">
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921&theme=gotham&hide_border=true" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
-</div>
-
-<hr />
 <h5 align="center">🛠 Languages and Tools:</h5>
 
 <table align="center">
@@ -226,15 +212,3 @@
 </p>
 
 
-
-<h5 align="center">Visitor's count :eyes:</h5>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{cedric921}/count.svg" alt="Cedric karungu :: Visitor's Count" /></p>
-
-[![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=cedric921&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/cedric921/github-readme-activity-graph)
-
-<br/>
-
-[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/USERNAME.svg)](https://user-badge.committers.top/congo_kinshasa_private/cedric921)
-
-<br/>
