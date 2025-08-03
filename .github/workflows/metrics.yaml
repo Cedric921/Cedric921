@@ -1,12 +1,13 @@
 name: Update Profile README stats
 
 on:
-  # Planification quotidienne
+  # Daily plan
   schedule:
     - cron: "0 0 * * *"
-  # Exécution manuelle
+    - cron: "30 13 * * *"
+  # Manually
   workflow_dispatch:
-  # Exécution à chaque push sur main
+  # onPush to main branch
   push:
     branches:
       - main
@@ -20,17 +21,17 @@ jobs:
       contents: write
 
     steps:
-      # 1️⃣ Récupérer le repo
+      # 1️⃣ checkout
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2️⃣ Installer les dépendances système nécessaires
+      # 2️⃣ install packages
       - name: Install system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y curl unzip python3 ruby-full build-essential zlib1g-dev liblzma-dev libxml2-dev libxslt1-dev git g++ cmake pkg-config libssl-dev fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf google-chrome-stable
 
-      # 3️⃣ Générer le snake
+      # 3️⃣ Generate snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -38,14 +39,14 @@ jobs:
           outputs: |
             snake/github-snake.svg
 
-      # 4️⃣ Commit automatique du snake
+      # 4️⃣ Snake commit
       - name: Commit Snake SVG
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update snake"
           file_pattern: "snake/*.svg"
 
-      # 5️⃣ Générer les metrics
+      # 5️⃣  Metrics
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -54,9 +55,14 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
           plugin_calendar: yes
-          plugin_calendar_limit: 3
+          plugin_calendar_limit: 10
           plugin_languages: yes
           plugin_achievements: yes
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
 
       # 6️⃣ Commit automatique des metrics
       - name: Commit Metrics SVG
