@@ -1,16 +1,34 @@
-# Hi, I’m @Cedric Karungu (Evernix | Lord VB) 👋
+# Hi, I’m Cedric Karungu (Lord VB | Evernix) 👋
 
 I'm a Tech enthusiast for work and leisure, currently Fullstack Engineer at @[Ever Technologies](https://ever.tech/) based in Bulgaria .
 
 I love:
 
-<!-- - 👨‍👩‍👦‍👦 my wife and 2 kids! -->
+- 👨‍👩‍👦‍👦 my family !
 - 👨‍💻 coding
-- 📷 [photography](https://yann.smugmug.com/)
+- 🎧 music
 - 🗺 traveling
-- ...and basically learning anything.
+- ... and basically learning anything.
+  
+<hr />
 
-📫 <https://www.linkedin.com/in/cedric-karungu/>
+<p align="center">
+  JS | TS <br />
+  React Native <br />
+  Git | GitHub | GitFlow | Jira | Agile  <br />
+  MySQL | MongoDB | PostgeSQL | sqlite <br />
+  HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design <br />
+</p>
+
+<h5 align="center"> Let's connect </h5>
+
+<p align="center">
+<a href="https://linkedin.com/in/cedric-karungu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-cedrickarungu-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ckarungu921@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ckarungu921@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+</p>
+
+<hr />
+
 
 ![Metrics](/github-metrics.svg)
 
