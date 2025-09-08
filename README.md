@@ -14,10 +14,12 @@ I love:
 
 <p align="center">
   JS | TS <br />
-  React Native <br />
+  Nest.js | Adonis <br />
+  React Native | Expo <br />
+  Antropic | OpenAI | Langchain <br />
   Git | GitHub | GitFlow | Jira | Agile  <br />
   MySQL | MongoDB | PostgeSQL | sqlite <br />
-  HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design <br />
+  HTML | CSS | Next.js | TailwindCSS | Shadcn <br />
 </p>
 
 <h5 align="center"> Let's connect </h5>
