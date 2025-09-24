@@ -31,6 +31,10 @@ I love:
 
 <hr />
 
+<a href="https://gitroll.io/profile/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2?theme=dracula" alt="GitRoll Profile Badge"/></a>
+
+<hr />
+
 
 ![Metrics](/github-metrics.svg)
 
