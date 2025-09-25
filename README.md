@@ -13,7 +13,7 @@
   <samp>... and basically learning anything. </samp><br />
 </p> -->
 
-<hr /> 
+## 
 
 <p align="center">
   <samp>🔑 JS | TS </samp><br />
@@ -33,20 +33,24 @@
 <a href="https://www.upwork.com/freelancers/~018534f0ce2690fa87"><img alt="Email" src="https://img.shields.io/badge/Upwork-Hire%20Me-1CA0F1?style=flat-square&logo=upwork"></a>
 </p>
 
-<hr />
-
+## 
 <p align="center">
   <img alt="Cedric921's stats" src="https://github-readme-stats.vercel.app/api?username=cedric921&show_icons=true&icon_color=2F81F7&layout=compact&show_owner=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=2F81F7&hide_title=true&hide_border=true" />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric921&include_all_commits=true&layout=compact&langs_count=6&hide=html,css,less,scss,hack,php,javascript,blade&show_icons=true&icon_color=2F81F7&count_private=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=2F81F7&hide_border=true" />
 </p>
 
-<hr />
 
+## 
+<div align="center">
+  <img src="/github-metrics.svg" alt="Metrics" />
+</div>
+
+## 
+<div align="center">
+  <img src="/snake/github-snake.svg" alt="Snake" />
+</div>
+
+
+## 
 <a href="https://gitroll.io/profile/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uBhrlnkxaeoQ7k2egQoGgAQfLZWL2?theme=dracula" alt="GitRoll Profile Badge"/></a>
 
-<hr />
-
-
-![Metrics](/github-metrics.svg)
-
-![Snake](/snake/github-snake.svg)
