@@ -3,6 +3,14 @@
   <code><samp>I'm a Tech enthusiast for work and leisure,</samp></code><br />
   <code><samp>currently Fullstack Engineer at <a href="https://ever.tech/">Ever_Technologies</a> based in Bulgaria. </samp></code>
 </p>
+<p align="center">
+  <code><samp>I am passionate about:</samp></code><br />
+  <code><samp>-> 🕹️ Creating immersive experiences (3D/VR). <-</samp></code><br />
+  <code><samp>-> 👨🏽‍💻 Software architecture (microservices, scalable). <-</samp></code><br />
+  <code><samp>-> 🌐 Cloud & DevOps expertise (capable of large-scale deployment). <-</samp></code><br />
+  <code><samp>-> 🤖 AI engineering (integrating artificial intelligence into apps). <-</samp></code><br />
+  <code><samp>-> 💳 Trading & Fintech development (financial independence + fintech skills). <-</samp></code><br />
+</p>
 
 <!-- <p align="center">
   <samp>I love: <samp><br />  
