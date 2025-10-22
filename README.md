@@ -15,17 +15,6 @@
 ##
 
 <p align="center">
-  <samp>I love: <samp><br />  
-  <samp>👨‍👩‍👦‍👦 my family !</samp><br />
-  <samp>👨‍💻 coding </samp><br />
-  <samp> 🎧 music </samp><br />
-  <samp> 🗺 traveling </samp><br />
-  <samp>... and basically learning anything. </samp><br />
-</p>
-
-## 
-
-<p align="center">
   <samp>🔑 JS | TS </samp><br />
   <samp>🛠 Nest.js | Adonis </samp><br />
   <samp>📱 React Native | Expo </samp><br />
