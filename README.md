@@ -40,9 +40,9 @@
 
 
 ## 
-<div align="center">
+<!-- <div align="center">
   <img src="/github-metrics.svg" alt="Metrics" />
-</div>
+</div> -->
 
 ## 
 <div align="center">
