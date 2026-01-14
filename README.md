@@ -31,12 +31,12 @@
 <a href="mailto:ckarungu921@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ckarungu921@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 <a href="https://www.upwork.com/freelancers/~018534f0ce2690fa87"><img alt="Email" src="https://img.shields.io/badge/Upwork-Hire%20Me-1CA0F1?style=flat-square&logo=upwork"></a>
 </p>
-
+<!--
 ## 
 <p align="center">
   <img alt="Cedric921's stats" src="https://github-readme-stats.vercel.app/api?username=cedric921&show_icons=true&icon_color=2F81F7&layout=compact&show_owner=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=2F81F7&hide_title=true&hide_border=true" />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric921&include_all_commits=true&layout=compact&langs_count=6&hide=html,css,less,scss,hack,php,javascript,blade&show_icons=true&icon_color=2F81F7&count_private=true&theme=gotham&text_color=999999&bg_color=00000000&title_color=2F81F7&hide_border=true" />
-</p>
+</p> -->
 
 <!--
 ## 
