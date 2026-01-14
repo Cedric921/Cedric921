@@ -39,12 +39,12 @@
 </a>
 </p>
 
-##
-
+<!-- 
 <div align="center">
   <img src="/snake/github-snake.svg" alt="Snake" />
 </div>
-
+ -->
+ 
 ##
 
 <p align="center">
