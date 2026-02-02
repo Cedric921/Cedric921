@@ -1,8 +1,11 @@
 <p align="center">
   <samp> Hi, I’m Cedric Karungu (Lord VB | Evernix) 👋 </samp><br />
   <code><samp>I'm a Tech enthusiast for work and leisure,</samp></code><br />
-  <code><samp>currently Fullstack Engineer at <a href="https://ever.tech/">Ever_Technologies</a> based in Bulgaria Spain & US. </samp></code>
+  <code><samp>currently Fullstack Engineer at <a href="https://ever.tech/">Ever_Technologies</a> based in Bulgaria, Spain & USA. </samp></code>
 </p>
+
+
+<!-- 
 <p align="center">
   <code><samp>I am passionate about:</samp></code><br />
   <code><samp>-> 🕹️ Creating immersive experiences (3D/VR). <-</samp></code><br />
@@ -12,6 +15,7 @@
   <code><samp>-> 💳 Trading & Fintech development (financial independence + fintech skills). <-</samp></code><br />
     
 </p>
+
 
 ##
 
@@ -24,6 +28,9 @@
   <samp>🧰 Git | GitHub | GitFlow | Jira | Agile  </samp><br />
   <samp>📌 HTML | CSS | Next.js | TailwindCSS | Shadcn </samp><br />
 </p>
+ -->
+
+##
 
 <h5 align="center"> Let's connect </h5>
 
