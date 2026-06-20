@@ -65,7 +65,7 @@
 
 ##
 
-<h5 align="center">GitHub Activity</h5>
+<!-- <h5 align="center">GitHub Activity</h5>
 
 <p align="center">
  <img src="https://github-contribution-merger.vercel.app/api/merge?users=cedric921%2Cvb921&mode=overlay&colors=58a6ff%2C39d353" alt="Merged contributions" />
@@ -75,7 +75,7 @@
   <a href="https://linkedin.com/in/cedric-karungu/">
     <img alt="banner" src="./assets/images/banner.png">
   </a>
-</p>
+</p> -->
 
 <!-- 
   ## 
