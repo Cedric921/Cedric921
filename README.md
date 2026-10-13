@@ -33,6 +33,7 @@
 | | |
 |---|---|
 | **[Hela](https://hela-web.vercel.app/en)** — run several businesses (shop, bar, motel…) from one place | `Next.js` `Multi-tenant SaaS` `POS` |
+| **[Adifile](https://adifile.vercel.app)** — calendar, mail, documents, invoices and cash for a whole team | `Next.js` `Multi-tenant SaaS` `Multi-currency` |
 | **[Masomo](https://masomo-cd.vercel.app)** — school management that keeps working offline | `Next.js` `Offline-first` `EdTech` |
 | **[Safirisha](https://safirisha.vercel.app/)** — parcels, trips and fleets for transport agencies | `Next.js` `Logistics` `SaaS` |
 | **[Nunua](https://nunua-web.vercel.app)** — all-in-one ERP for African SMEs | `React` `ERP` `Inventory` |
