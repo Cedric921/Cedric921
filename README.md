@@ -18,11 +18,12 @@
 
 ## 🌍 Open source
 
-<sub>94 merged pull requests across these projects — each one has a short write-up on my blog.</sub>
+<sub>104 merged pull requests across these projects — most have a short write-up on my blog.</sub>
 
 | Project | Stars | What it is | My PRs | Write-up |
 |---|---|---|---|---|
-| [Ever Gauzy](https://github.com/ever-co/ever-gauzy/pulls?q=is%3Apr+author%3ACedric921) | ![stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=flat-square&label=%E2%98%85&color=f59e0b) | Open-source ERP / CRM / HRM | 53 merged | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-ever-gauzy) |
+| [Ever Gauzy](https://github.com/ever-co/ever-gauzy/pulls?q=is%3Apr+author%3ACedric921) | ![stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=flat-square&label=%E2%98%85&color=f59e0b) | Open-source ERP / CRM / HRM | 63 merged | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-ever-gauzy) |
+| [RTK](https://github.com/rtk-ai/rtk/pulls?q=is%3Apr+author%3ACedric921) | ![stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat-square&label=%E2%98%85&color=f59e0b) | Rust CLI that cuts LLM token use on dev commands | 13 open | — |
 | [SurfSense](https://github.com/MODSetter/SurfSense/pulls?q=is%3Apr+author%3ACedric921) | ![stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat-square&label=%E2%98%85&color=f59e0b) | Private, offline NotebookLM alternative | 25 merged | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-surfsense) |
 | [Memnox](https://github.com/Memnox/memnox/pulls?q=is%3Apr+author%3ACedric921) | ![stars](https://img.shields.io/github/stars/Memnox/memnox?style=flat-square&label=%E2%98%85&color=f59e0b) | Security guard for AI coding agents | 11 merged | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-memnox) |
 | [Expo](https://github.com/expo/expo/pulls?q=is%3Apr+author%3ACedric921) · [React Native](https://github.com/react/react-native/pulls?q=is%3Apr+author%3ACedric921) | ![stars](https://img.shields.io/github/stars/react/react-native?style=flat-square&label=%E2%98%85&color=f59e0b) | Cross-platform mobile apps | 4 merged | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-expo-react-native) |
