@@ -18,7 +18,7 @@
 
 ## 🌍 Open source
 
-<sub>110 merged pull requests across these projects — most have a short write-up on my blog.</sub>
+<sub>110 merged pull requests across these projects — most have a short write-up on my blog · <a href="https://cedric-karungu.vercel.app/en#open-source">live PR tree</a></sub>
 
 | Project | Stars | What it is | My PRs | Write-up |
 |---|---|---|---|---|
