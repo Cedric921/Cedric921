@@ -76,9 +76,10 @@ async function main() {
   const count = (map, repo) => [...map].find(([r]) => lc(r) === lc(repo))?.[1] ?? 0;
 
   // Rows from the config, then discovered repos above the stars threshold.
+  // Renamed repos resolve to their new name: keep each repo once, under its current name.
   const rows = config.projects.map((p) => ({
     ...p,
-    repos: p.repos.filter((r) => meta.get(lc(r))),
+    repos: [...new Set(p.repos.filter((r) => meta.get(lc(r))).map((r) => meta.get(lc(r)).full_name))],
   }));
   const extra = [];
   for (const repo of contributed) {
