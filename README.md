@@ -18,6 +18,7 @@
 
 ## 🌍 Open source
 
+<!-- OSS:START -->
 <sub>110 merged pull requests across these projects — most have a short write-up on my blog · <a href="https://cedric-karungu.vercel.app/en#open-source">live PR tree</a></sub>
 
 | Project | Stars | What it is | My PRs | Write-up |
@@ -28,6 +29,7 @@
 | [Memnox](https://github.com/Memnox/memnox/pulls?q=is%3Apr+author%3ACedric921) | ![stars](https://img.shields.io/github/stars/Memnox/memnox?style=flat-square&label=%E2%98%85&color=f59e0b) | Security guard for AI coding agents | 11 merged | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-memnox) |
 | [Expo](https://github.com/expo/expo/pulls?q=is%3Apr+author%3ACedric921) · [React Native](https://github.com/react/react-native/pulls?q=is%3Apr+author%3ACedric921) | ![stars](https://img.shields.io/github/stars/react/react-native?style=flat-square&label=%E2%98%85&color=f59e0b) | Cross-platform mobile apps | 4 merged | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-expo-react-native) |
 | [SOS Academy](https://github.com/Shinobi-Open-Source-Academy/sos-academy-platform/pulls?q=is%3Apr+author%3ACedric921) | ![stars](https://img.shields.io/github/stars/Shinobi-Open-Source-Academy/sos-academy-platform?style=flat-square&label=%E2%98%85&color=f59e0b) | Mentoring platform for new open-source devs | 1 merged | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-sos-academy) |
+<!-- OSS:END -->
 
 ## 🚀 Featured projects
 

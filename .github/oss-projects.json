@@ -1,0 +1,65 @@
+{
+  "user": "Cedric921",
+  "minStars": 100,
+  "exclude": [
+    "emmabostian/developer-portfolios"
+  ],
+  "projects": [
+    {
+      "name": "Ever Gauzy",
+      "repos": [
+        "ever-co/ever-gauzy"
+      ],
+      "description": "Open-source ERP / CRM / HRM",
+      "writeup": "https://cedric-karungu.vercel.app/en/blog/open-source-ever-gauzy"
+    },
+    {
+      "name": "Ever Teams",
+      "repos": [
+        "ever-co/ever-teams"
+      ],
+      "description": "Open-source work and time tracking"
+    },
+    {
+      "name": "RTK",
+      "repos": [
+        "rtk-ai/rtk"
+      ],
+      "description": "Rust CLI that cuts LLM token use on dev commands"
+    },
+    {
+      "name": "SurfSense",
+      "repos": [
+        "MODSetter/SurfSense"
+      ],
+      "description": "Private, offline NotebookLM alternative",
+      "writeup": "https://cedric-karungu.vercel.app/en/blog/open-source-surfsense"
+    },
+    {
+      "name": "Memnox",
+      "repos": [
+        "Memnox/memnox-runtime",
+        "Memnox/memnox"
+      ],
+      "description": "Security guard for AI coding agents",
+      "writeup": "https://cedric-karungu.vercel.app/en/blog/open-source-memnox"
+    },
+    {
+      "name": "Expo · React Native",
+      "repos": [
+        "expo/expo",
+        "react/react-native"
+      ],
+      "description": "Cross-platform mobile apps",
+      "writeup": "https://cedric-karungu.vercel.app/en/blog/open-source-expo-react-native"
+    },
+    {
+      "name": "SOS Academy",
+      "repos": [
+        "Shinobi-Open-Source-Academy/sos-academy-platform"
+      ],
+      "description": "Mentoring platform for new open-source devs",
+      "writeup": "https://cedric-karungu.vercel.app/en/blog/open-source-sos-academy"
+    }
+  ]
+}
