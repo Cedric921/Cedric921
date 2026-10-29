@@ -1,8 +1,9 @@
 name: Update open-source contributions
 
 on:
+  # Every Sunday at 20:17 Kigali time (18:17 UTC), at the end of the week
   schedule:
-    - cron: "17 5 * * *"
+    - cron: "17 18 * * 0"
   workflow_dispatch:
   push:
     branches:
