@@ -6,6 +6,7 @@
  * Projects listed in .github/oss-projects.json keep their name, description and
  * write-up; other repos are discovered from the PR search and added automatically
  * (as a table row from `minStars` stars, in the "Also contributed to" line below that).
+ * Runs every Sunday from .github/workflows/oss.yml.
  *
  *   GITHUB_TOKEN=... node .github/scripts/update-oss.mjs
  */
