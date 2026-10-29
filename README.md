@@ -27,7 +27,7 @@
 | [Ever Teams](https://github.com/ever-co/ever-teams/pulls?q=is%3Apr+author%3ACedric921) | ★ 600 | Open-source work and time tracking | **70** merged | — |
 | [RTK](https://github.com/rtk-ai/rtk/pulls?q=is%3Apr+author%3ACedric921) | ★ 85k | Rust CLI that cuts LLM token use on dev commands | **2** merged · 10 open | — |
 | [SurfSense](https://github.com/MODSetter/SurfSense/pulls?q=is%3Apr+author%3ACedric921) | ★ 17k | Private, offline NotebookLM alternative | **31** merged · 1 open | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-surfsense) |
-| **Memnox**<br>[memnox-runtime](https://github.com/Memnox/memnox-runtime/pulls?q=is%3Apr+author%3ACedric921) · [memnox-runtime](https://github.com/Memnox/memnox/pulls?q=is%3Apr+author%3ACedric921) | ★ 11 | Security guard for AI coding agents | **17** merged · 6 open | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-memnox) |
+| [Memnox](https://github.com/Memnox/memnox-runtime/pulls?q=is%3Apr+author%3ACedric921) | ★ 11 | Security guard for AI coding agents | **17** merged · 6 open | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-memnox) |
 | **Expo · React Native**<br>[expo](https://github.com/expo/expo/pulls?q=is%3Apr+author%3ACedric921) · [react-native](https://github.com/react/react-native/pulls?q=is%3Apr+author%3ACedric921) | ★ 127k | Cross-platform mobile apps | **5** merged · 11 open | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-expo-react-native) |
 | [SOS Academy](https://github.com/Shinobi-Open-Source-Academy/sos-academy-platform/pulls?q=is%3Apr+author%3ACedric921) | ★ 17 | Mentoring platform for new open-source devs | **1** merged · 13 open | [Read](https://cedric-karungu.vercel.app/en/blog/open-source-sos-academy) |
 
