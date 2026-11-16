@@ -42,11 +42,19 @@
 | **[Adifile](https://adifile.vercel.app)** — calendar, mail, documents, invoices and cash for a whole team | `Next.js` `Multi-tenant SaaS` `Multi-currency` |
 | **[Masomo](https://masomo-cd.vercel.app)** — school management that keeps working offline | `Next.js` `Offline-first` `EdTech` |
 | **[Safirisha](https://safirisha.vercel.app/)** — parcels, trips and fleets for transport agencies | `Next.js` `Logistics` `SaaS` |
-| **[Nunua](https://nunua-web.vercel.app)** — all-in-one ERP for African SMEs | `React` `ERP` `Inventory` |
+| **[Sillage](https://sillage-ashen-nu.vercel.app/)** — Trading journal | `React` `Next.js` `Trading` |
+| **[Afia](https://afia-cd.vercel.app/)** - Hospital management + Virtual medical records | `Next.js` `CRM` |
+| **[Takwimu](https://takwimu-azure.vercel.app/)** - The control room for your field surveys | `Next.js` `CRM` `Survey` `AI` `PWA` |
 | **[HIÜRD](https://hiurd.com/)** — local services marketplace, web and mobile | `React Native` `NestJS` `Stripe` |
 | **[Ever Teams](https://app.ever.team/)** — open-source work and time tracking | `React` `React Native` `Node.js` |
 
 <sub>More on <a href="https://cedric-karungu.vercel.app/en/projects">my portfolio</a>.</sub>
+
+## 🏦 Tech-preneur
+
+<p align="center">
+  Founder & CEO of <a href="https://aditech-co.vercel.app/en/"> Aditech co. </a>
+</p>
 
 ## 🧰 Stack
 
